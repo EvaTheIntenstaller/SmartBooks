@@ -1,0 +1,10 @@
+------------------Concerns-------------
+
+Change elon's potrait to something else
+The book in adventure is mispelled from riddle, to middle.
+Sign in and sign up have different lengths for the input.
+
+Set up a function for adminstration use for all the books inside the different categories
+
+Each Item in the list will  have its own unique Identifier
+
